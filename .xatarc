@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Muhamad-Hanif-Hafizhan-s-workspace-k8ja1r.ap-southeast-2.xata.sh/db/envoydev_envoycast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
